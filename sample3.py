@@ -1,3 +1,7 @@
+"""
+クロール・スクレイプ・保存をメイン関数にひとまとめ
+"""
+
 import requests
 import lxml.html
 import csv

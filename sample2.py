@@ -1,6 +1,5 @@
 """
 技評にある本のURLとタイトルがjsonファイルで出力されるよ
-
 """
 import requests
 import lxml.html

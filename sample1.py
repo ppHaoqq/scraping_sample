@@ -1,6 +1,5 @@
 """
 技評にある本のURLとタイトルがｃsvファイルで出力されるよ
-
 """
 import requests
 import lxml.html
